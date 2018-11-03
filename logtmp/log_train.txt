@@ -1,0 +1,1 @@
+Namespace(batch_size=8, decay_rate=0.5, decay_step=337620, log_dir='logtmp', lr=0.001, max_epoch=201, model='', momentum=0.9, n_views=13, num_point=2048, outf='cls', workers=0)
